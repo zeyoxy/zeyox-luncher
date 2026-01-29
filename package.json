@@ -1,6 +1,6 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Launcher",
+    "preductname": "Launcher",
     "version": "2.1.3",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
