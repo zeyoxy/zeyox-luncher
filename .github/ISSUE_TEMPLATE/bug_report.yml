@@ -24,8 +24,7 @@ body:
     attributes:
       label: Système d'exploitation
       options:
-        - Windows
-        - macOS
+        - Window
         - Linux (Basé sur Debian/Ubuntu)
         - Linux (Autres)
     validations:
