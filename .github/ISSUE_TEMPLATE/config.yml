@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Nous rejoindre sur Discord, pour toutes questions ou demandes
     url: http://discord.luuxis.fr
